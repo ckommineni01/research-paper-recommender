@@ -24,7 +24,7 @@ This project explores the design and development of a recommendation system for 
 ## 📁 Project Report
 
 You can read the full PDF report here:  
-[📄 SDM_Project_Report.pdf](./# Research Paper Recommendation System
+[📄 SDM_Project_Report.pdf](./# Research Paper Recommendation System)
 
 This project explores the design and development of a recommendation system for academic research papers using **Natural Language Processing (NLP)** and **graph-based models**.
 
