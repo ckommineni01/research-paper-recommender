@@ -49,7 +49,7 @@ This project explores the design and development of a recommendation system for 
 ## 📁 Project Report
 
 You can read the full PDF report here:  
-[📄 SDM_Project_Report.pdf](./reasearch-paper-recommender.pdf)
+[📄 SDM_Project_Report.pdf](research-paper-recommender.pdf)
 
 ## ⚙️ Future Enhancements
 
